@@ -1,16 +1,39 @@
-### Hi there 👋
+![Jaiver Santiago Montoya Garzón - Desarrollador Web backend](https://i.ibb.co/XYxg7Qv/Screenshot-16.png)
 
-<!--
-**jmontoya05/jmontoya05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/jmontoya05?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-Here are some ideas to get you started:
+# ¡Hola, soy Jaiver Santiago Montoya Garzón! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Soy un apasionado desarrollador backend con una sólida formación en tecnologías como Java, Spring Boot, MySQL, Python, Django, Git y GitHub. Aunque no tengo experiencia laboral previa en programación, estoy ansioso por adentrarme en este emocionante mundo y continuar mi crecimiento profesional.
+
+## Habilidades Técnicas
+- Lenguajes: Java, Python
+- Frameworks: Spring Boot, Django
+- Bases de datos: MySQL
+- Control de versiones: Git, GitHub
+- Herramientas: PowerBI
+- Desarrollo web: Actualmente estudiando Desarrollo web backend en la corporación Makaia y Desarrollo web full stack en Digital House.
+
+## Habilidades Blandas
+- Proactividad
+- Trabajo en equipo
+- Autonomía
+- Orientación a objetivos
+
+## Intereses
+Aparte de mi amor por la programación, disfruto de diversas actividades. Algunos de mis intereses incluyen:
+- Practicar deportes, especialmente correr y asistir al gimnasio.
+- Viajar y explorar nuevos lugares.
+- Aprender constantemente, especialmente en el ámbito tecnológico.
+
+## Experiencia
+- **CyS Tecnología** - Analista de Servicios Compartidos (Enero 2022 - Actualidad)
+- **Emtelco** - Líder GTR (Octubre 2018 - Enero 2022)
+
+## Contacto
+¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! No dudes en contactarme:
+- LinkedIn: [https://www.linkedin.com/in/jaivermontoya]
+- Correo electrónico: [santiagomontoya997@gmail.com]
+
+¡Gracias por visitar mi perfil de GitHub!
