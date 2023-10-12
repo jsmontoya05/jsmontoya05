@@ -33,7 +33,13 @@ Aparte de mi amor por la programación, disfruto de diversas actividades. Alguno
 
 ## Contacto
 ¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! No dudes en contactarme:
-- LinkedIn: [https://www.linkedin.com/in/jaivermontoya]
-- Correo electrónico: [santiagomontoya997@gmail.com]
+### Conéctate conmigo 🌐
+
+Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
+
+📧 [Correo Electrónico](mailto:santiagomontoya997@gmail.com)
+👔 [LinkedIn](https://www.linkedin.com/in/jaivermontoya/)
+📷 [Instagram](https://www.instagram.com/jsmontoya05/)
+
 
 ¡Gracias por visitar mi perfil de GitHub!
