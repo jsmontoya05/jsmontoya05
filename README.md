@@ -38,7 +38,9 @@ Aparte de mi amor por la programación, disfruto de diversas actividades. Alguno
 Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
 
 📧 [Correo Electrónico](mailto:santiagomontoya997@gmail.com)
+
 👔 [LinkedIn](https://www.linkedin.com/in/jaivermontoya/)
+
 📷 [Instagram](https://www.instagram.com/jsmontoya05/)
 
 
