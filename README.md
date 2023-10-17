@@ -4,34 +4,34 @@
 
 # ¡Hola, soy Jaiver Santiago Montoya Garzón! 👋
 
-## Sobre mí
+## Sobre mí 🙋‍♂️
 Soy un apasionado desarrollador backend con una sólida formación en tecnologías como Java, Spring Boot, MySQL, Python, Django, Git y GitHub. Aunque no tengo experiencia laboral previa en programación, estoy ansioso por adentrarme en este emocionante mundo y continuar mi crecimiento profesional.
 
-## Habilidades Técnicas
-- Lenguajes: Java, Python
+## Habilidades Técnicas 🧑‍💻
+- Lenguajes: Java, Python 
 - Frameworks: Spring Boot, Django
 - Bases de datos: MySQL
 - Control de versiones: Git, GitHub
 - Herramientas: PowerBI
 - Desarrollo web: Actualmente estudiando Desarrollo web backend en la corporación Makaia y Desarrollo web full stack en Digital House.
 
-## Habilidades Blandas
+## Habilidades Blandas 🤝
 - Proactividad
 - Trabajo en equipo
 - Autonomía
 - Orientación a objetivos
 
-## Intereses
+## Intereses 🏋️
 Aparte de mi amor por la programación, disfruto de diversas actividades. Algunos de mis intereses incluyen:
 - Practicar deportes, especialmente correr y asistir al gimnasio.
 - Viajar y explorar nuevos lugares.
 - Aprender constantemente, especialmente en el ámbito tecnológico.
 
-## Experiencia
+## Experiencia 💼
 - **CyS Tecnología** - Analista de Servicios Compartidos (Enero 2022 - Actualidad)
 - **Emtelco** - Líder GTR (Octubre 2018 - Enero 2022)
 
-## Contacto
+## Contacto 📞
 ¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! No dudes en contactarme:
 ### Conéctate conmigo 🌐
 
