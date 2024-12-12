@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/jmontoya05?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
-# ¡Hola, soy Jaiver Santiago Montoya Garzón! 👋
+# ¡Hola, soy Santiago Montoya Garzón! 👋
 
 ## Sobre mí 🙋‍♂️
 Soy un apasionado desarrollador backend con una sólida formación en tecnologías como Java, Spring Boot, MySQL, Python, Django, Git y GitHub.
