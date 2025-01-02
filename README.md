@@ -1,6 +1,6 @@
 ![Jaiver Santiago Montoya Garzón - Desarrollador Web backend](https://i.ibb.co/ZVHckcv/Screenshot-15.png)
 
-![GitHub followers](https://img.shields.io/github/followers/jmontoya05?label=Follow%20me%20on%20GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/jsmontoya05?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
 # ¡Hola, soy Santiago Montoya Garzón! 👋
 
