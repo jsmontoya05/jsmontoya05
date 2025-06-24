@@ -1,4 +1,4 @@
-![Jaiver Santiago Montoya Garzón - Desarrollador Web backend](https://i.ibb.co/ZVHckcv/Screenshot-15.png)
+![Jaiver Santiago Montoya Garzón - Desarrollador Web backend](https://www.dongee.com/tutoriales/content/images/2023/01/backend.png)
 
 ![GitHub followers](https://img.shields.io/github/followers/jsmontoya05?label=Follow%20me%20on%20GitHub&style=for-the-badge)
 
